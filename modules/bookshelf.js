@@ -63,8 +63,4 @@ export default class BookShelf {
   
       this.showBooks();
     }
-
-    show(){
-        console.log('hello')
-    }
   }

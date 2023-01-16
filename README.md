@@ -6,7 +6,7 @@
   <br/>
 
   <h3><b>
-Awesome Books</b></h3>
+Awesome Books with ES6</b></h3>
 
 </div>
 
@@ -36,7 +36,7 @@ Awesome Books</b></h3>
 
 - HTML 5
 - CSS 3
-- Javascript
+- Javascript ES6
 
 # Key Features
 
@@ -74,7 +74,7 @@ Awesome Books</b></h3>
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://github.com/gsmalik030/awesome_books)
+- [Live Demo Link](https://github.com/gsmalik030/Awesom-books-ES6)
 
 ### Prerequisites
 
@@ -86,7 +86,7 @@ I completed all the previous blocks.
 
 Clone this repository to your desired folder:
 
-**Just clone the project by runing the `git clone git@github.com:gsmalik030/awesome_books.git` command in your command line, and you are done.**
+**Just clone the project by runing the `git clone git@github.com:gsmalik030/Awesom-books-ES6.git` command in your command line, and you are done.**
 
 <!-- AUTHORS -->
 
@@ -98,9 +98,7 @@ Clone this repository to your desired folder:
 
 👤 **Anwaar Salam**
 
-- GitHub: [Anwaar12](https://github.com/Anwaar12)
-- Twitter: [Anwaar154](https://twitter.com/Anwaar154)
-- LinkedIn: [Anwaar12](https://www.linkedin.com/in/anwaar-salam-61a3821b0/)
+
 
 <!-- CONTRIBUTING -->
 
@@ -133,7 +131,7 @@ Give a ⭐️ if you like my effort!
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-(https://github.com/gsmalik030/awesome_books/blob/main/LICENSE)
+(https://github.com/gsmalik030/Awesom-books-ES6/blob/main/LICENSE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
