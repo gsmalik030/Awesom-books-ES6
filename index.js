@@ -1,5 +1,6 @@
 import time from './modules/dateTime.js';
 import BookShelf from './modules/bookshelf.js';
+
 const currentFormTitle = document.querySelector('#title');
 const currentFormAuthor = document.querySelector('#author');
 const currentFormBookAddButton = document.querySelector('#book-add-button');
@@ -10,10 +11,7 @@ const books = document.querySelector('.book-shelf');
 const form = document.querySelector('.form');
 const contact = document.querySelector('.contact');
 
-
 const awesomeBookShelf = new BookShelf();
-
-console.log(awesomeBookShelf)
 
 currentFormBookAddButton.addEventListener('click', () => {
   const title = currentFormTitle.value;
